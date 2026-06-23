@@ -6,7 +6,7 @@
 
 I build production-ready SaaS platforms, dashboards, REST APIs, authentication systems, relational databases, and AI-powered web applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtashammuzamal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtasham-muzamal/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtashammuzamal@gmail.com)
 
