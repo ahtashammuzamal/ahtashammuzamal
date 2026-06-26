@@ -89,7 +89,7 @@ I'm currently open to full-stack engineering opportunities where I can build rea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtashammuzamal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtasham-muzamal/)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtashammuzamal@gmail.com)
 
