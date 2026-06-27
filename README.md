@@ -7,9 +7,15 @@
   <img src="media/thumbnail.png" alt="Muhammad Ahtasham's Portfolio" width="100%">
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtashammuzamal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtasham-muzamal/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtashammuzamal@gmail.com)
+<a href="https://ahtashammuzamal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/ahtasham-muzamal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:ahtashammuzamal@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
@@ -88,8 +94,14 @@ I'm currently open to full-stack engineering opportunities where I can build rea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtashammuzamal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtasham-muzamal/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtashammuzamal@gmail.com)
+<a href="https://ahtashammuzamal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/ahtasham-muzamal/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:ahtashammuzamal@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
