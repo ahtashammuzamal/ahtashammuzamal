@@ -1,8 +1,5 @@
 <div align="center">
 
-# Hi, I'm Muhammad Ahtasham 👋
-
-
 <a href="https://ahtashammuzamal.vercel.app/" target="_blank">
   <img src="media/thumbnail.png" alt="Muhammad Ahtasham's Portfolio" width="100%">
 </a>
