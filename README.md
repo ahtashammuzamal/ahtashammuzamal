@@ -2,17 +2,16 @@
 
 # Hi, I'm Muhammad Ahtasham 👋
 
-### Full-Stack Engineer | React • Next.js • Node.js • PostgreSQL
 
-I build production-ready SaaS platforms, dashboards, REST APIs, authentication systems, relational databases, and AI-powered web applications.
+<a href="https://ahtashammuzamal.vercel.app/" target="_blank">
+  <img src="media/thumbnail.png" alt="Muhammad Ahtasham's Portfolio" width="100%">
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3676DE?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtashammuzamal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtasham-muzamal/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtashammuzamal@gmail.com)
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
